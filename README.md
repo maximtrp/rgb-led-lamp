@@ -2,6 +2,8 @@
 
 ![RGB LED Lamp](./photo.jpg "RGB LED Lamp")
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b0fd9653382b4c3ab67f342b413bf6e8)](https://www.codacy.com/app/maximtrp/rgb-led-lamp?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=maximtrp/rgb-led-lamp&amp;utm_campaign=Badge_Grade)
+
 This is a simple mood lamp which gradually changes its color according to HSV color model.
 
 ## Build setup
