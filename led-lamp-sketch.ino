@@ -33,8 +33,6 @@ void loop() {
 
   delay(5000);
 
-  if (h >= 255) h = 0;
-  
   for (i = 0; i < 8; i++) {
     h++;
     fill_solid(leds1, NUM_LEDS, CHSV(h,s,v));
